@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-.info {
+/* .info {
 margin-top: 3rem;
 margin-left: 200px;
 margin-right: 200px;
@@ -21,7 +21,7 @@ margin-right: 200px;
 .btn {
   margin-left: 200px;
   margin-right: 200px;
-}
+} */
 
 .px1 {
 padding-left: 1rem;
@@ -30,13 +30,13 @@ padding-right: 1rem;
 
 
 
-.mt2 {
+/* .mt2 { 
   font-weight:bold;
 margin-top: 2.5rem;
 width: auto;
 margin-left: 200px;
 margin-right: 200px;
-}
+} */
 
 .todo {
 margin-bottom: 1.5rem;
@@ -58,8 +58,8 @@ justify-content: space-between;
 cursor: pointer;
 padding: 1rem;
 background:rgb(202, 202, 202);
-margin-left: 200px;
-margin-right: 200px;
+/* margin-left: 200px;
+margin-right: 200px; */
 
 
 }
